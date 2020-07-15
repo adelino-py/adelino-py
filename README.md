@@ -2,7 +2,7 @@
 
  👩‍💻 I'm Mariana Araujo Adelino,
 
-- :computer: -Mentor- in the Development area - Mulheres de Produto
+- :computer: Mentor in the Development area - Mulheres de Produto
 - :bar_chart: Trainee in Data Analysis - STEM para Minas
 - :female_sign: Founder of Start Coding - [@_startcoding](https://instagram.com/_startcoding) on Instagram
 - :books: Student and Researcher at Instituto Federal do Piaui
